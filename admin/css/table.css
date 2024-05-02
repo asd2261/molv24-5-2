@@ -1,0 +1,7 @@
+*{padding:0px;margin:0px;}
+body{background-color:#FDFDFD;}
+a{text-decoration:none;color:#090000;}
+table{width:98%;border:1px solid #EBEBEB;margin-left:auto;margin-right:auto;}
+td{min-height:28px;height:auto;line-height:28px;border:1px dotted #ECECEC;font-size:13px;padding-left:10px;padding-top:5px;padding-bottom:5px;}
+.tt{height:34px;line-height:34px;font-size:14px;font-weight:bold;background:#F9F9F9;}
+.btn{width:50px;height:25px;line-height:22px;font-size:13px;}
